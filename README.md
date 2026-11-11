@@ -1,4 +1,4 @@
-# test-pipeline-api
+# API - Pipeline Test Repo
 
 This is a bare shell backend project which exists purely for setting up and troubleshooting jenkins/portainer build and deploy.
 
