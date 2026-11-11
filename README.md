@@ -1,2 +1,4 @@
 # test-pipeline-api
-Creating this project to test setting up API pipelines and deployment
+
+This is a bare shell backend project which exists purely for setting up and troubleshooting jenkins/portainer build and deploy.
+The code in here is irrelavant, any commit -> push -> merge will retrigger build and deploy which are running containered on-prem.
